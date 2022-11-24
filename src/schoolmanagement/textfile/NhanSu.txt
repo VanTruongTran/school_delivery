@@ -1,0 +1,15 @@
+Lan # 1885 # Viet Nam # Ha Noi # 2005 # Tu nhien # true
+Hoa # 1886 # Viet Nam # Ha Noi # 2021 # Xa hoi # true
+Huy # 1884 # Viet Nam # Ha Noi # 2015 # Tu nhien # true
+Ngoc # 1887 # Viet Nam # Ha Noi # 2020 # Tu nhien # true
+Linh # 1890 # Viet Nam # Ha Noi # 2010 # Xa hoi # true
+Toan # 1997 # Viet Nam # Ha Noi # 6.92 # 7.54 # 8.15 # false
+Cuong # 1998 # Viet Nam # Ha Noi # 7.15 # 6.86 # 7.34 # false
+Xuan # 1997 # Viet Nam # Ha Noi # 9.08 # 9.53 # 9.07 # false
+Vy # 1995 # Viet Nam # Ha Noi # 4.63 # 4.75 # 4.21 # false
+Minh # 1992 # Viet Nam # Ha Noi # 9.54 # 7.98 # 8.11 # false
+Oanh # 1994 # Viet Nam # Ha Noi # 9.12 # 9.58 # 8.99 # false
+Binh # 1995 # Viet Nam # Ha Noi # 4.11 # 4.24 # 4.05 # false
+Duong # 1997 # Viet Nam # Ha Noi # 5.98 # 7.14 # 6.92 # false
+Uyen # 1998 # Viet Nam # Ha Noi # 8.92 # 8.55 # 9.09 # false
+An # 1997 # Viet Nam # Ha Noi # 5.72 # 6.64 # 6.13 # false
